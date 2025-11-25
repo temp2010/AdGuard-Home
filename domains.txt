@@ -48,6 +48,7 @@ avianca.com
 airbnb.com
 airbnb.com.co
 cinemultimediaflix.com
+dale.com.co
 *.bancolombia.com
 *.bancolombia.com.co
 *.nequi.com
@@ -95,3 +96,4 @@ cinemultimediaflix.com
 *.pasarelapagosaval.com
 *.avianca.com
 *.airbnb.com.co
+*.dale.com.co
