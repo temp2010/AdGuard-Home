@@ -49,6 +49,13 @@ airbnb.com
 airbnb.com.co
 cinemultimediaflix.com
 dale.com.co
+vpnunlimited.com
+vpnunlimitedapp.com
+openai.com
+cinecolombia.com
+moviexchange.com
+cdn.laneros.net
+softersplace.buk.co
 *.bancolombia.com
 *.bancolombia.com.co
 *.nequi.com
@@ -97,3 +104,8 @@ dale.com.co
 *.avianca.com
 *.airbnb.com.co
 *.dale.com.co
+*.vpnunlimited.com
+*.vpnunlimitedapp.com
+*.openai.com
+*.cinecolombia.com
+*.moviexchange.com
