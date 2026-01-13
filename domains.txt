@@ -53,7 +53,6 @@ vpnunlimited.com
 vpnunlimitedapp.com
 openai.com
 cinecolombia.com
-cms-api-multiplex.cinecolombia.com
 moviexchange.com
 cdn.laneros.net
 softersplace.buk.co
@@ -109,6 +108,4 @@ softersplace.buk.co
 *.vpnunlimitedapp.com
 *.openai.com
 *.cinecolombia.com
-*.cms-api-multiplex.cinecolombia.com
 *.moviexchange.com
-
